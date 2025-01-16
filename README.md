@@ -1,0 +1,1 @@
+ссылка на задание https://github.com/netology-code/javaqa-homeworks-video/blob/javaqa-55/HW_OOP_CONST.md
